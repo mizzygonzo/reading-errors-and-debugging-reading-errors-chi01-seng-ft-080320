@@ -1,4 +1,4 @@
-# Ruby Errors
+ # Ruby Errors
 
 ## Learning Goals
 
